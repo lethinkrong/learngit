@@ -55,7 +55,7 @@
 ### 课程教辅团队
 
 - 课程导师：肖凯 @xccds
-- 课程助教：永乐 @lyltj2010 ，林淼 @linmiao ，Yam @hscspring
+- 课程助教：永乐 @lyltj2010 ，林淼 @linmiao ，少春 @hscspring
 
 若有课程/技术疑问，欢迎联系课程导师和课程助教。
 
