@@ -43,14 +43,14 @@
 #### 每周学习节奏
 
 - 助教 `*wd1` 通知本周要完成的内容，学有余力的学员可根据自身进度提前学习下周内容
-	- 当周课程安排 ~ 见 [Data102 学员仓库 Issue](https://github.com/OpenMindClub/OMOOCData/issues)
-	- 当周课程内容/作业 ~ 见 [开智学堂 APP](http://openmindclub.com/)>数据科学基础班二期
+	- 当周课程安排 ~ 见 [Data103 学员仓库 Issue](https://github.com/OpenMindClub/Data103/)
+	- 当周课程内容/作业 ~ 见 [开智学堂 APP](http://openmindclub.com/)>数据科学基础班三期
 - 学员自己安排时间学习、完成作业
-	- 疑问发布到 Issue 中，发布方式参考 [Issue 提问模板](https://github.com/OpenMindClub/Data102/issues/2)
+	- 疑问发布到 Issue 中，发布方式参考 [Issue 提问模板](https://github.com/OpenMindClub/Data103/issues/)
 	- 导师/助教 异步答疑指点
 	- 尽量不在微信群中讨论技术问题
 - `*wd6` 20:00~21:00 学员微信群集中答疑
-- `(*+1)wd1` 11:42 前学员提交作业到 [Data102 学员仓库](https://github.com/OpenMindClub/Data102/issues)的每周作业 Issues  
+- `(*+1)wd1` 11:42 前学员提交作业到 [Data103 学员仓库](https://github.com/OpenMindClub/Data103/issues)的每周作业 Issues  
 
 ### 课程教辅团队
 
@@ -97,7 +97,7 @@
 ### 反馈渠道
 
 1. 学习疑问优先发布在 [Data103 学员仓库 Issue](https://github.com/OpenMindClub/Data103/issues)中进行主题异步讨论
-2. 反馈课程内容错误请点 [开智学堂 APP 内容错误反馈 · Issue #4 · OpenMindClub/Data102](https://github.com/OpenMindClub/Data103/issues/)
+2. 反馈课程内容错误请点 [开智学堂 APP 内容错误反馈 · Issue #4 · OpenMindClub/Data103](https://github.com/OpenMindClub/Data103/issues/)
 - 反馈课程意见建议直接联系一休，或发邮件到 omooc@openmind.club
 - 提交[开智学堂 APP ](http://openmindclub.com/) Bug 请点 [OpenMindClub/OMC.App](https://github.com/OpenMindClub/OMC.App/issues) 
 
