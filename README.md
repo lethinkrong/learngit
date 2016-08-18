@@ -82,17 +82,19 @@
 
 为了你能获得更好的学习体验，正式上课之前建议你学习以下资料：
 
-
-- Python 基础： [笨办法学 Python](http://learnpythonthehardway.org/book/)
-	- 可参考前 30 个小练习
-	- 每个小练习都是运行一小段代码，迅速上手 Python
-- 统计基础： [Think Stats](http://greenteapress.com/thinkstats/) / [Think Stats 2](http://greenteapress.com/thinkstats2/html/index.html)
-	- descriptive statistics (描述性统计)，probability (概率) 等章节，迅速回顾基础知识
-	- 若有时间可复习/预习 Hypothesis Testing(假设检验)，Regression (回归)等章节
-- 微积分: [用 Python 学微积分](https://ryancheunggit.gitbooks.io/calculus-with-python/content/) 
-- 课程工具
-	- GitHub： [Hello World · GitHub Guides](https://guides.github.com/activities/hello-world/)
-	- Git：[Code School - Try Git](https://try.github.io/levels/1/challenges/1)
+- Python 基础：
+	- [笨办法学 Python](http://learnpythonthehardway.org/book/)
+		- 至少完成前 40 个小练习，每个小练习都是运行一小段代码，迅速上手 Python
+		- 往期同学最快三天刷完，相信你也可以~
+	- 若已有 Python 基础或者其他编程语言基础，可以学习 [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)  ，迅速掌握 Python 核心内容
+- 统计基础：
+	- [统计学的世界](https://book.douban.com/subject/1138353/) 适合新手了解统计学基础知识
+	- [Think Stats](http://greenteapress.com/thinkstats/) / [Think Stats 2](http://greenteapress.com/thinkstats2/html/index.html) 
+		- 重点看 descriptive statistics (描述性统计)，probability (概率) 等章节，迅速回顾基础知识
+		- 若有时间可复习/预习 Hypothesis Testing(假设检验)，Regression (回归)等章节
+- 课程工具：会使用命令行提交文件到 GitHub 仓库。可参考
+	- [GitHub](https://github.com/)：[GitHub Guides](https://guides.github.com/)、[GitHub Help](https://help.github.com/)
+	- [Git](https://git-scm.com/)：Learn Git in your browser for free with [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
 
 ### 反馈渠道
 
