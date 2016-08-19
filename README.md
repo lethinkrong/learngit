@@ -58,7 +58,7 @@
 - 课程助教：吕永乐 @lyltj2010 ，林淼 @linmiao ，少春 @hscspring
 - 课程助理：余姗 @shanzibnu
 
-若有课程/技术疑问，欢迎联系课程导师和课程助教；若有其它疑问/需求，欢迎联系 @一休 或课程助理。
+若有课程/技术疑问，欢迎联系课程导师和课程助教；若有其它疑问/需求，欢迎微信联系 @一休(aiopenmind) 或课程助理。
 
 
 ## 课程资源索引
@@ -88,7 +88,7 @@
 	- [Think Stats](http://greenteapress.com/thinkstats/) / [Think Stats 2](http://greenteapress.com/thinkstats2/html/index.html) 
 		- 重点看 descriptive statistics (描述性统计)，probability (概率) 等章节，迅速回顾基础知识
 		- 若有时间可复习/预习 Hypothesis Testing(假设检验)，Regression (回归)等章节
-- 课程工具：会使用命令行提交文件到 GitHub 仓库，可参考
+- 课程工具：使用命令行提交文件到 GitHub 仓库，可参考
 	- [GitHub](https://github.com/)：[GitHub Guides](https://guides.github.com/)、[GitHub Help](https://help.github.com/)
 	- [Git](https://git-scm.com/)：Learn Git in your browser for free with [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
 
