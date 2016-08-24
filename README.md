@@ -55,7 +55,7 @@
 ### 课程教辅团队
 
 - 课程导师：肖凯 @xccds
-- 课程助教：吕永乐 @lyltj2010 ，林淼 @linmiao ，少春 @hscspring
+- 课程助教：吕永乐 @lyltj2010 ，林淼 @linmiao ，郝少春 @hscspring
 - 课程助理：余姗 @shanzibnu
 
 若有课程/技术疑问，欢迎联系课程导师和课程助教；若有其它疑问/需求，欢迎微信联系 @一休(aiopenmind) 或课程助理。
@@ -97,7 +97,7 @@
 
 1. 学习疑问优先发布在 [Data103 学员仓库 Issue](https://github.com/OpenMindClub/Data103/issues) 中进行主题异步讨论
 2. 反馈课程内容错误请点 [开智学堂卡片内容错误反馈 · Issue #4](https://github.com/OpenMindClub/Data103/issues/4)
-3. 反馈课程意见建议微信联系 @一休，或发邮件到 course@openmind.club
+3. 反馈课程意见建议微信联系 @一休，或发邮件到 course@openmindclub.com
 4. 提交开智学堂 APP Bug 请点 [OpenMindClub/OMC.App](https://github.com/OpenMindClub/OMC.App/issues) 
 
 
