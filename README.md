@@ -11,16 +11,16 @@
 
 ### 课程大纲
 
-0. 导论
-1. 工具基础（linux/ipython）
-2. 数值计算（numpy）
-3. 数据绘图（matplotlib）
-4. 数据操作（pandas）
-5. 概率和统计分析（statsmodels）
-6. 数值计算（scipy）
-7. 线性模型（statsmodels）
-8. 机器学习初步（sklearn）
-9. 毕业典礼+大作业
+0w 导论
+1w 工具基础（linux/ipython）
+2w 数值计算（numpy）
+3w 数据绘图（matplotlib）
+4w 数据操作（pandas）
+5w 概率和统计分析（statsmodels）
+6w 数值计算（scipy）
+7w 线性模型（statsmodels）
+8w 机器学习初步（sklearn）
+9w 毕业典礼+大作业
 
 
 
@@ -107,6 +107,7 @@
 
 - 开智学堂 APP 视频站地址：http://tv.openmindclub.com/login.html
 - GitHub 课程讨论地址：https://github.com/OpenMindClub/Data103/issues
+- 课程卡片出现的链接以及课件链接汇总：https://github.com/OpenMindClub/Data103/wiki/IdxData103Reference
 - [数据科学基础班 FAQ · Issue #5](https://github.com/OpenMindClub/Data103/issues/5) ，课程期间会在这个 Issue 持续汇总常见问题，有困难可先查阅这个 Issue
 - GitHub 提交开智学堂 APP Bug 地址：https://github.com/openmindclub/omc.app/issues
 
