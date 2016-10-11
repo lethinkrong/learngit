@@ -6,7 +6,7 @@
 - 3w 数据绘图（matplotlib）
 - 4w 数据操作（pandas）
 - 5w 概率和统计分析（statsmodels）
-- 6w 数值计算（scipy）
+- 6w 最优化（scipy）
 - 7w 线性模型（statsmodels）
 - 8w 机器学习初步（sklearn）
 - 9w 毕业典礼+大作业
